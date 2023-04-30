@@ -8,7 +8,7 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCWX3ClP5wyBteIE-lA6sy5fEraB9ht5q8",
+  apiKey: "",
   authDomain: "projeto-70825.firebaseapp.com",
   projectId: "projeto-70825",
   storageBucket: "projeto-70825.appspot.com",
